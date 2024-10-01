@@ -42,9 +42,11 @@
 
 ## 3. Install Putty
 
-![terakhir 2](https://github.com/user-attachments/assets/56944f12-643a-404a-8a86-ec59731c5ab4)
+![bb1 (2)](https://github.com/user-attachments/assets/3ba70211-e011-4c46-b2a6-b9ee3c39156f)
+
 
 ## 4. Tampilkan versi PuTTY
+![terakhir 2](https://github.com/user-attachments/assets/56944f12-643a-404a-8a86-ec59731c5ab4)
 
 ![terakhir](https://github.com/user-attachments/assets/30ec1de6-01b8-4b5f-907f-68a727d8987e)
 
